@@ -1,13 +1,13 @@
-group = "app.template"
+group = "app.morphe.patches.teamsnap"
 
 patches {
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
+        name = "TeamSnap Patches"
+        description = "Morphe patches for TeamSnap"
+        source = "https://github.com/osirisad/teamsnap-patches"
+        author = "osirisad"
         contact = "na"
-        website = "na"
+        website = "https://github.com/osirisad/teamsnap-patches"
         license = "GPLv3"
     }
 }
